@@ -3,3 +3,4 @@ This is a cat.
 This is a dog.
 UI
 Teach course feels good!
+I like to teach people.
